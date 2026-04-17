@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chirag Agrawal</h1>
-<h3 align="center">An Aspiring Generative AI Engineer from India</h3>
+<h3 align="center">An Aspiring Macine Learning Engineer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
 
@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=chiragmiyy&label=Profile%20views&color=0e75b6&style=flat" alt="chiragmiyy" />
 </p>
 
-- 🔭 Currently building: **AI** – an AI-powered 
+- 🔭 Currently building: **LLM-Powered Code Review Agent** – Autonomous agent that reviews PRs, flags bugs & suggests fixes
 - 🌱 Actively learning: **Machine Learning, Deep Learning**, and **NVIDIA CUDA Ecosystem**  
 - 📬 Reach me at: **chirag.agr0611@gmail.com**
 
